@@ -1,0 +1,5 @@
+.sneha/
+.codex_logs/
+__pycache__/
+*.pyc
+~$*.xlsx
