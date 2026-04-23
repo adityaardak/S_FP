@@ -12,11 +12,9 @@ APP_TITLE = "Pay Lens AI"
 DEFAULT_DATA_PATH = Path(__file__).resolve().parent / "dataset for project - updated.xlsx"
 POWER_BI_EMBED_URL = (
     "https://app.powerbi.com/reportEmbed"
-    "?reportId=1e511742-2023-4ada-ac80-7f3d96043a1a"
+    "?reportId=1a98f1ac-1cd1-4e94-880f-00e0484eec27"
     "&autoAuth=true"
-    "&ctid=ad06ef22-d6dc-4a55-b4c1-c3a158f5f147"
-    "&actionBarEnabled=true"
-    "&reportCopilotInEmbed=true"
+    "&ctid=aed43286-0f66-47d6-942b-d31a4b8addca"
 )
 
 REQUIRED_COLUMNS = {
